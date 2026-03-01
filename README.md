@@ -11,5 +11,9 @@ int main ()
 
   return 0;
 }
+```
 
+Result example:
+```bash
+hello.c:6: / 2026-02-28 20:32:31.668125 / Hello, world!
 ```
